@@ -10,7 +10,7 @@ company_name = "mtevlution"
 knowledge_area = "desportos com foco principal Rugby"
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Define the default route to return the index.html file
 @app.route("/")
